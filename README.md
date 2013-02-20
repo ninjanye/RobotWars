@@ -38,12 +38,17 @@ In order to confirm your program is working correctly, we have provided some tes
 **TEST INPUT:**
 
 5 5
+
 1 2 N
+
 LMLMLMLMM
+
 3 3 E
+
 MMRMMRMRRM
 
 **EXPECTED OUTPUT:**
 
 1 3 N
+
 5 1 E
